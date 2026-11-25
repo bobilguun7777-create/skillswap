@@ -1,0 +1,20 @@
+# Flutter and Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+coverage/
+android/local.properties
+*.iml
+
+# IDE and local settings
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
